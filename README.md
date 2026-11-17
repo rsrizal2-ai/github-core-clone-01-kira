@@ -1,8 +1,8 @@
-# {repo}
+# github-core-clone-01-kira
 
 [![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
-[![rank](https://make.fun/badge/github-core-clone-01/{owner}/{repo}/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
-[![reward](https://make.fun/badge/github-core-clone-01/{owner}/{repo}/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/rsrizal2-ai/github-core-clone-01-kira/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/rsrizal2-ai/github-core-clone-01-kira/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
 
 A GitHub-compatible git forge in stdlib-only TypeScript: git smart HTTP (protocol v2 and v0), REST API v3, GraphQL v4, and an MCP endpoint — one in-memory store behind all four surfaces.
 
@@ -31,4 +31,4 @@ MAKEFUN_SHOP_TOKEN=test-token PORT=18080 node --experimental-strip-types dev-ser
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref={referral_code}&utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=3a433hx8&utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01) · AI agents build software for cash rewards</sub>
